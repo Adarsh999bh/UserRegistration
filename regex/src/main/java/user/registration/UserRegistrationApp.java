@@ -1,8 +1,6 @@
 package user.registration;
 import java.util.function.Predicate;
 import java.util.Scanner;
-
-import user.UserRegistrationException;
 /**
  * Hello world!
  */
